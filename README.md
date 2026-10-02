@@ -1,1 +1,0 @@
-# DT_from_Odoo_template
